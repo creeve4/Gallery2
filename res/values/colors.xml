@@ -17,7 +17,7 @@
     <color name="default_background">#000</color>
     <color name="primary">#37474F</color>
     <color name="primary_dark">#263238</color>
-    <color name="accent">#607D8B</color>
+    <color name="accent">#FF9800</color>
     <color name="material_blue_grey_950">#ff21272b</color>
     
     <!-- configuration for album set page -->
